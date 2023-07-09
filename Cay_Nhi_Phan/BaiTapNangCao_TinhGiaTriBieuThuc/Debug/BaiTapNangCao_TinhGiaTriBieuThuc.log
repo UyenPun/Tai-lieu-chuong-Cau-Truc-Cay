@@ -1,0 +1,17 @@
+﻿Build started 5/11/2019 6:11:15 PM.
+     1>Project "C:\Users\VietNamSon\OneDrive\Desktop\Tai lieu chuong Cau Truc Cay\Cay_Nhi_Phan\BaiTapNangCao_TinhGiaTriBieuThuc\BaiTapNangCao_TinhGiaTriBieuThuc.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\vietnamson\onedrive\desktop\tai lieu chuong cau truc cay\cay_nhi_phan\baitapnangcao_tinhgiatribieuthuc\source.cpp(128): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\vietnamson\onedrive\desktop\tai lieu chuong cau truc cay\cay_nhi_phan\baitapnangcao_tinhgiatribieuthuc\source.cpp(422): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\vietnamson\onedrive\desktop\tai lieu chuong cau truc cay\cay_nhi_phan\baitapnangcao_tinhgiatribieuthuc\source.cpp(497): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\vietnamson\onedrive\desktop\tai lieu chuong cau truc cay\cay_nhi_phan\baitapnangcao_tinhgiatribieuthuc\source.cpp(497): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\VietNamSon\OneDrive\Desktop\Tai lieu chuong Cau Truc Cay\Cay_Nhi_Phan\Debug\BaiTapNangCao_TinhGiaTriBieuThuc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\VietNamSon\OneDrive\Desktop\Tai lieu chuong Cau Truc Cay\Cay_Nhi_Phan\Debug\BaiTapNangCao_TinhGiaTriBieuThuc.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\VietNamSon\OneDrive\Desktop\Tai lieu chuong Cau Truc Cay\Cay_Nhi_Phan\Debug\BaiTapNangCao_TinhGiaTriBieuThuc.lib" /MACHINE:X86 Debug\Source.obj
+         BaiTapNangCao_TinhGiaTriBieuThuc.vcxproj -> C:\Users\VietNamSon\OneDrive\Desktop\Tai lieu chuong Cau Truc Cay\Cay_Nhi_Phan\Debug\BaiTapNangCao_TinhGiaTriBieuThuc.exe
+     1>Done Building Project "C:\Users\VietNamSon\OneDrive\Desktop\Tai lieu chuong Cau Truc Cay\Cay_Nhi_Phan\BaiTapNangCao_TinhGiaTriBieuThuc\BaiTapNangCao_TinhGiaTriBieuThuc.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.58

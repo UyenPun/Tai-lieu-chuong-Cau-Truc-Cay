@@ -1,0 +1,8 @@
+banana:qua chuoi
+cat:con meo
+dog:con cho
+function:thu tuc/ham
+recursion:de quy
+money:tien
+music:am nhac
+reverse:dao nguoc
